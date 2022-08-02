@@ -38,7 +38,7 @@ public class FlowManager : MonoBehaviour
         GuideSteps[currentStep].SetActive(true);
     }
 
-    void ResetFlow()
+    public void ResetFlow()
     {
         HideAllSteps();
         currentStep = 0;
