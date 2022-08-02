@@ -547,8 +547,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc611535a05c1954b871769df38b06f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GuideSteps: []
-  StepHolder: {fileID: 0}
+  GuideSteps:
+  - {fileID: 350383793}
+  - {fileID: 850192776}
+  - {fileID: 487871664}
+  - {fileID: 298585994}
+  - {fileID: 1038388182}
+  - {fileID: 2048569779}
+  StepHolder: {fileID: 1799154975}
 --- !u!4 &1111720205
 Transform:
   m_ObjectHideFlags: 0
