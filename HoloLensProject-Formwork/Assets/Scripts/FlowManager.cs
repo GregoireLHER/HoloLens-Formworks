@@ -2,15 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class FlowManager : MonoBehaviour
 {
     public GameObject[] GuideSteps;
     public Transform StepHolder;
 
     private int currentStep = 0;
-
-
-
 
     void Start()
     {
@@ -21,7 +18,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if (isNext)
         {
-            if(currentStep >= GuideSteps.Length - 1)
+            if (currentStep >= GuideSteps.Length - 1)
             {
                 return;
             }
@@ -30,7 +27,7 @@ public class NewBehaviourScript : MonoBehaviour
         }
         else
         {
-            if(currentStep <= 0)
+            if (currentStep <= 0)
             {
                 return;
             }
@@ -50,10 +47,9 @@ public class NewBehaviourScript : MonoBehaviour
 
     void HideAllSteps()
     {
-        foreach(Transform child in StepHolder)
+        foreach (Transform child in StepHolder)
         {
             child.gameObject.SetActive(false);
         }
     }
-
 }
