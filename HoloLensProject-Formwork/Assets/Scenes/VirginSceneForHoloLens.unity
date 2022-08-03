@@ -693,7 +693,7 @@ GameObject:
   m_Component:
   - component: {fileID: 58791916}
   m_Layer: 0
-  m_Name: Tas banches 2
+  m_Name: Form panel pile 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -809,7 +809,7 @@ GameObject:
   m_Component:
   - component: {fileID: 73408965}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e (4)"
+  m_Name: Folded formed panel 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1559,7 +1559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 140826919}
   m_Layer: 0
-  m_Name: Stab
+  m_Name: Concrete ballasts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8145,7 +8145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 822259173}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e (7)"
+  m_Name: Folded formed panel 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11899,7 +11899,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1201181891}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e (5)"
+  m_Name: Folded formed panel 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12249,7 +12249,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1253274588}
   m_Layer: 0
-  m_Name: Tas banches 1
+  m_Name: Form panel pile 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13001,7 +13001,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1317654859}
   m_Layer: 0
-  m_Name: Etais2
+  m_Name: Props2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14408,7 +14408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1456321852}
   m_Layer: 0
-  m_Name: Tas banches 3
+  m_Name: Form panel pile 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15677,7 +15677,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1600813595}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e (3)"
+  m_Name: Folded formed panel 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20079,7 +20079,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2048569780
 Transform:
   m_ObjectHideFlags: 0
@@ -20409,7 +20409,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2081849628}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e (6)"
+  m_Name: Folded formed panel 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20446,7 +20446,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2085887394}
   m_Layer: 0
-  m_Name: Tas banches 4
+  m_Name: Form panel pile 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20479,7 +20479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2086979875}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e (2)"
+  m_Name: Folded formed panel 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23194,7 +23194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1131794968098797306}
   m_Layer: 0
-  m_Name: Passerelle vierge
+  m_Name: Locker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23430,7 +23430,7 @@ GameObject:
   m_Component:
   - component: {fileID: 175394482101735846}
   m_Layer: 0
-  m_Name: Banche vierge
+  m_Name: Simple panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23788,7 +23788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 289832029606997776}
   m_Layer: 0
-  m_Name: Gardes corps
+  m_Name: Guardrails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23914,7 +23914,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1935031535838036938}
   m_Layer: 0
-  m_Name: Passerelle vierge
+  m_Name: Locker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24175,7 +24175,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1290310768692638808}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e (1)"
+  m_Name: Folded formed panel 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24719,7 +24719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1822938473128501671}
   m_Layer: 0
-  m_Name: Etais2
+  m_Name: Props2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24902,7 +24902,7 @@ GameObject:
   - component: {fileID: 1822938474390964879}
   - component: {fileID: 1822938474390964878}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01 (1)
+  m_Name: SM_Prop_SupportBeam_Extender_02 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25017,7 +25017,7 @@ GameObject:
   - component: {fileID: 1822938474789615578}
   - component: {fileID: 1822938474789615581}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01
+  m_Name: SM_Prop_SupportBeam_Extender_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25067,7 +25067,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1255340845558995488}
   m_Layer: 0
-  m_Name: Gardes corps
+  m_Name: Guardrails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25241,7 +25241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1657691011702891670}
   m_Layer: 0
-  m_Name: Banche vierge
+  m_Name: Simple panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25696,7 +25696,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2632008599846490046}
   m_Layer: 0
-  m_Name: "Banche \xE0 stabiliser"
+  m_Name: Unstabilized form panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26242,7 +26242,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2928686013141877920}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e"
+  m_Name: Folded formed panel 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26633,7 +26633,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3596309619377175182}
   m_Layer: 0
-  m_Name: "Banche pli\xE9e"
+  m_Name: Folded form panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29598,7 +29598,7 @@ GameObject:
   - component: {fileID: 4848400738324315983}
   - component: {fileID: 1660410718560675042}
   m_Layer: 0
-  m_Name: Echelle Echelle [307560]
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29892,7 +29892,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4582886421902999144}
   m_Layer: 0
-  m_Name: Etais1
+  m_Name: Props1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30023,7 +30023,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7880339194936077546}
   m_Layer: 0
-  m_Name: Echelle
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31418,7 +31418,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3096158225337764696}
   m_Layer: 0
-  m_Name: Etais1
+  m_Name: Props1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31571,7 +31571,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8661261929476839898}
   m_Layer: 0
-  m_Name: Echelle
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
