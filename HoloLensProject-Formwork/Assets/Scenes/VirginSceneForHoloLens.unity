@@ -1559,7 +1559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 140826919}
   m_Layer: 0
-  m_Name: Stab
+  m_Name: Concrete ballasts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8651,7 +8651,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &850192777
 Transform:
   m_ObjectHideFlags: 0
@@ -12944,7 +12944,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1317654859}
   m_Layer: 0
-  m_Name: Etais2
+  m_Name: Props2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23137,7 +23137,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1131794968098797306}
   m_Layer: 0
-  m_Name: Passerelle vierge
+  m_Name: Locker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23373,7 +23373,7 @@ GameObject:
   m_Component:
   - component: {fileID: 175394482101735846}
   m_Layer: 0
-  m_Name: Banche vierge
+  m_Name: Simple panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23731,7 +23731,7 @@ GameObject:
   m_Component:
   - component: {fileID: 289832029606997776}
   m_Layer: 0
-  m_Name: Gardes corps
+  m_Name: Guardrails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25639,7 +25639,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2632008599846490046}
   m_Layer: 0
-  m_Name: "Banche \xE0 stabiliser"
+  m_Name: Unstabilized form panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29966,7 +29966,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7880339194936077546}
   m_Layer: 0
-  m_Name: Echelle
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31361,7 +31361,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3096158225337764696}
   m_Layer: 0
-  m_Name: Etais1
+  m_Name: Props1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
