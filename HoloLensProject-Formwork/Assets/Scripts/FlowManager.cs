@@ -35,6 +35,7 @@ public class FlowManager : MonoBehaviour
             currentStep--;
         }
 
+        HideAllSteps();
         GuideSteps[currentStep].SetActive(true);
     }
 
