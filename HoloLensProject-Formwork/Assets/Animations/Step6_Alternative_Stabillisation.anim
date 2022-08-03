@@ -17,6 +17,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PositionCurves:
   - curve:
       serializedVersion: 2
@@ -289,6 +290,9 @@ AnimationClip:
 =======
   m_PositionCurves: []
 >>>>>>> parent of e954b7f (All steps ready)
+=======
+  m_PositionCurves: []
+>>>>>>> parent of e954b7f (All steps ready)
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves: []
@@ -308,7 +312,11 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_StopTime: 16
+=======
+    m_StopTime: 1
+>>>>>>> parent of e954b7f (All steps ready)
 =======
     m_StopTime: 1
 >>>>>>> parent of e954b7f (All steps ready)
@@ -332,6 +340,7 @@ AnimationClip:
     m_KeepOriginalPositionXZ: 0
     m_HeightFromFeet: 0
     m_Mirror: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1158,6 +1167,9 @@ AnimationClip:
     path: 2nde peau
     classID: 4
     script: {fileID: 0}
+=======
+  m_EditorCurves: []
+>>>>>>> parent of e954b7f (All steps ready)
 =======
   m_EditorCurves: []
 >>>>>>> parent of e954b7f (All steps ready)
