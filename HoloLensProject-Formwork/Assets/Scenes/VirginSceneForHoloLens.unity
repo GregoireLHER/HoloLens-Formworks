@@ -1210,7 +1210,7 @@ GameObject:
   m_Component:
   - component: {fileID: 51723841}
   m_Layer: 0
-  m_Name: Banche vierge
+  m_Name: Simple panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2618,7 +2618,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6229,7 +6229,7 @@ GameObject:
   - component: {fileID: 260377301}
   - component: {fileID: 260377300}
   m_Layer: 0
-  m_Name: SM_Prop_Cone_Barrier_01 (1)
+  m_Name: Stabilizer L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6284,7 +6284,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 871d570146e9fe440a9047fa66ac5b0a, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6557,7 +6557,7 @@ GameObject:
   m_Component:
   - component: {fileID: 286912602}
   m_Layer: 0
-  m_Name: Echelle
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8468,7 +8468,7 @@ GameObject:
   - component: {fileID: 391643940}
   - component: {fileID: 391643939}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01 (1)
+  m_Name: Long props 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8524,7 +8524,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8732,7 +8732,7 @@ GameObject:
   - component: {fileID: 397562735}
   - component: {fileID: 397562734}
   m_Layer: 0
-  m_Name: Echelle Echelle [307560]
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10726,7 +10726,7 @@ GameObject:
   m_Component:
   - component: {fileID: 509162256}
   m_Layer: 0
-  m_Name: Etais1
+  m_Name: Props 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11288,7 +11288,7 @@ GameObject:
   - component: {fileID: 534804349}
   - component: {fileID: 534804348}
   m_Layer: 0
-  m_Name: SM_Prop_Cone_Barrier_01
+  m_Name: Stabilizer R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11343,7 +11343,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 871d570146e9fe440a9047fa66ac5b0a, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11774,7 +11774,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12707,7 +12707,7 @@ GameObject:
   m_Component:
   - component: {fileID: 584752582}
   m_Layer: 0
-  m_Name: "R\xE9hausse 2"
+  m_Name: Vertical riser
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13374,7 +13374,7 @@ GameObject:
   - component: {fileID: 615212383}
   - component: {fileID: 615212382}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01
+  m_Name: Short props 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13430,7 +13430,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13553,7 +13553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 619609334}
   m_Layer: 0
-  m_Name: Etais2
+  m_Name: Props 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14782,7 +14782,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14940,7 +14940,7 @@ GameObject:
   m_Component:
   - component: {fileID: 686256315}
   m_Layer: 0
-  m_Name: Etais2
+  m_Name: Props 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15076,7 +15076,7 @@ GameObject:
   m_Component:
   - component: {fileID: 696503124}
   m_Layer: 0
-  m_Name: Etais1
+  m_Name: Props 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15305,7 +15305,7 @@ GameObject:
   m_Component:
   - component: {fileID: 719712371}
   m_Layer: 0
-  m_Name: Echelle
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15886,7 +15886,7 @@ GameObject:
   m_Component:
   - component: {fileID: 740421306}
   m_Layer: 0
-  m_Name: Gardes corps
+  m_Name: Guardrails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16004,7 +16004,7 @@ GameObject:
   m_Component:
   - component: {fileID: 751585398}
   m_Layer: 0
-  m_Name: "R\xE9hausse 1"
+  m_Name: Vertical riser
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18805,7 +18805,7 @@ GameObject:
   - component: {fileID: 867418081}
   - component: {fileID: 867418080}
   m_Layer: 0
-  m_Name: Water Pipe with Key (3)
+  m_Name: Panel spacer 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22002,7 +22002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1017782491}
   m_Layer: 0
-  m_Name: Passerelle vierge
+  m_Name: Locker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22571,7 +22571,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1038388183
 Transform:
   m_ObjectHideFlags: 0
@@ -23306,7 +23306,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23846,7 +23846,7 @@ GameObject:
   - component: {fileID: 1096808992}
   - component: {fileID: 1096808991}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01 (1)
+  m_Name: Long props 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23902,7 +23902,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -24790,7 +24790,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -26701,7 +26701,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1228641801}
   m_Layer: 0
-  m_Name: Banche vierge
+  m_Name: Simple panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26818,7 +26818,7 @@ GameObject:
   - component: {fileID: 1238334193}
   - component: {fileID: 1238334192}
   m_Layer: 0
-  m_Name: Echelle Echelle [307560]
+  m_Name: Ladder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27965,7 +27965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1278922261}
   m_Layer: 0
-  m_Name: Entretoises
+  m_Name: Panel spacers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29047,7 +29047,7 @@ GameObject:
   - component: {fileID: 1318113279}
   - component: {fileID: 1318113278}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01 (1)
+  m_Name: Long props 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29103,7 +29103,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -29400,7 +29400,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31405,7 +31405,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1446493700}
   m_Layer: 0
-  m_Name: Passerelle vierge
+  m_Name: Locker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32236,7 +32236,7 @@ GameObject:
   - component: {fileID: 1483846566}
   - component: {fileID: 1483846565}
   m_Layer: 0
-  m_Name: Water Pipe with Key (2)
+  m_Name: Panel spacer 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35037,7 +35037,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1604547787}
   m_Layer: 0
-  m_Name: "Banche stabilis\xE9e"
+  m_Name: Stabilized form panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35453,7 +35453,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -35836,7 +35836,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1640626053}
   m_Layer: 0
-  m_Name: Gardes corps
+  m_Name: Guardrails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36124,7 +36124,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1659685152}
   m_Layer: 0
-  m_Name: Banche vierge
+  m_Name: Simple panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36920,7 +36920,7 @@ GameObject:
   - component: {fileID: 1745434889}
   - component: {fileID: 1745434888}
   m_Layer: 0
-  m_Name: SM_Prop_Concrete_Slab_03
+  m_Name: Concrete ballast R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37141,7 +37141,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -37997,7 +37997,7 @@ GameObject:
   - component: {fileID: 1787923329}
   - component: {fileID: 1787923328}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01
+  m_Name: Short props 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38053,7 +38053,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -39573,7 +39573,7 @@ GameObject:
   - component: {fileID: 1873895702}
   - component: {fileID: 1873895701}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01 (1)
+  m_Name: Long props 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39629,7 +39629,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -39954,7 +39954,7 @@ GameObject:
   - component: {fileID: 1890421503}
   - component: {fileID: 1890421502}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01
+  m_Name: Short props 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40010,7 +40010,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -43153,7 +43153,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038458419}
   m_Layer: 0
-  m_Name: Banche vierge (1)
+  m_Name: Simple panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44089,7 +44089,7 @@ GameObject:
   - component: {fileID: 2077743632}
   - component: {fileID: 2077743631}
   m_Layer: 0
-  m_Name: SM_Prop_SupportBeam_Extender_01
+  m_Name: Short props 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44145,7 +44145,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d92ef32394b5f474385d74b565a7bdd7, type: 2}
+  - {fileID: 2100000, guid: c842a68a122405c438942e330afe4b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -44188,7 +44188,7 @@ GameObject:
   - component: {fileID: 2079048224}
   - component: {fileID: 2079048223}
   m_Layer: 0
-  m_Name: SM_Prop_Concrete_Slab_03 (1)
+  m_Name: Concrete ballast L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44859,7 +44859,7 @@ GameObject:
   - component: {fileID: 2110163655}
   - component: {fileID: 2110163654}
   m_Layer: 0
-  m_Name: Water Pipe with Key (1)
+  m_Name: Panel spacer 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45943,7 +45943,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2144185033}
   m_Layer: 0
-  m_Name: 2nde peau
+  m_Name: 2nd form panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -50111,7 +50111,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2632008599846490047}
-  m_LocalRotation: {x: 0.7071068, y: -0, z: -0.7071068, w: 0}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: -0.7071068, w: 0}
   m_LocalPosition: {x: -0.00000023841858, y: -1.6900003, z: 3.58}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -50125,7 +50125,7 @@ Transform:
   - {fileID: 140826919}
   m_Father: {fileID: 487871665}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: -180}
 --- !u!1 &2632008599846490047
 GameObject:
   m_ObjectHideFlags: 0
@@ -54631,7 +54631,7 @@ GameObject:
   - component: {fileID: 4759073183413404592}
   - component: {fileID: 7345204491783862138}
   m_Layer: 0
-  m_Name: Water Pipe with Key
+  m_Name: Panel spacer 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
