@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -10221,7 +10221,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &487871665
 Transform:
   m_ObjectHideFlags: 0
@@ -14180,8 +14180,23 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Each panel composition has different stabilization properties. Please always
-    refer to the technical documentation of your suppliers for this purpose.
+  m_text: 'The panels are heavy but not very stable elements, about 1 tonne for a
+    panel (2.40 x 2.80).
+
+
+    All panels that cannot be stabilised by two stabilisers,
+    e.g. panels < 1.20, must be laid on the ground.
+
+    The weights are placed at
+    the back of the panels from 2 to 3 metres depending on the height of the sail.
+    Their weight will also vary according to the height of the sail from 1 to 4 tons.
+    They can therefore be coupled.
+
+    As a general rule, when we have a standard
+    height, we will use 1 prop per panel in the formwork train but 2 props on isolated
+    panels. As soon as we increase the height by an under rise, we will use 2 props
+    on insulated panels or in a train. That is to say a stability unit (slider prop
+    + concrete block) every 2.50 m.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -14208,8 +14223,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
