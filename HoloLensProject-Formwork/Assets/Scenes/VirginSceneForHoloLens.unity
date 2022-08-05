@@ -9817,7 +9817,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14271,30 +14271,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf98dd1206224111a38765365e98e207, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lateInitialize: 0
   lockCursorWhenFocusLocked: 1
   setCursorInvisibleWhenFocusLocked: 0
   maxGazeCollisionDistance: 10
   raycastLayerMasks:
-  - m_Bits: 4294967291
+  - serializedVersion: 2
+    m_Bits: 4294967291
   stabilizer:
     storedStabilitySamples: 60
-    stablePosition: {x: 0, y: 0, z: 0}
-    stableRotation: {x: 0, y: 0, z: 0, w: 0}
   gazeTransform: {fileID: 0}
   minHeadVelocityThreshold: 0.5
   maxHeadVelocityThreshold: 2
-  <GazeCursorPrefab>k__BackingField: {fileID: 1000012072213228, guid: 5b3e2856904e43c680f84f326861032a, type: 3}
-  <GazeTarget>k__BackingField: {fileID: 0}
-  <HitPosition>k__BackingField: {x: 0, y: 0, z: 0}
-  <HitNormal>k__BackingField: {x: 0, y: 0, z: 0}
-  <HeadVelocity>k__BackingField: {x: 0, y: 0, z: 0}
-  <HeadMovementDirection>k__BackingField: {x: 0, y: 0, z: 0}
-  lastHitDistance: 2
-  delayInitialization: 1
-  lastHeadPosition: {x: 0, y: 0, z: 0}
-  <IsEyeTrackingEnabled>k__BackingField: 0
-  <UseHeadGazeOverride>k__BackingField: 0
 --- !u!114 &620746457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14323,15 +14310,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SendPointerHoverToParent: 1
-  m_EventSystem: {fileID: 0}
-  m_InputOverride: {fileID: 0}
-  m_DefaultInput: {fileID: 0}
-  m_PrevActionTime: 0
-  m_LastMoveVector: {x: 0, y: 0}
-  m_ConsecutiveMoveCount: 0
-  m_LastMousePosition: {x: 0, y: 0}
-  m_MousePosition: {x: 0, y: 0}
-  m_CurrentFocusedGameObject: {fileID: 0}
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -14339,9 +14317,6 @@ MonoBehaviour:
   m_InputActionsPerSecond: 10
   m_RepeatDelay: 0.5
   m_ForceModuleActive: 0
-  <RaycastCamera>k__BackingField: {fileID: 0}
-  <ManualInitializationRequired>k__BackingField: 0
-  <ProcessPaused>k__BackingField: 0
 --- !u!1 &636737043
 GameObject:
   m_ObjectHideFlags: 0
@@ -16240,7 +16215,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16848,7 +16823,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19199,7 +19174,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19400,6 +19375,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 2110343545006650861, guid: 9a7c24f281a2c3d45a9b8befe608bf77, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6017307072824507092, guid: 9a7c24f281a2c3d45a9b8befe608bf77, type: 3}
       propertyPath: ShowTetherWhenManipulating
       value: 0
@@ -19604,24 +19583,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c55e9d7385598e4d8c3833450a46f2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  updateLinkedTransform: 0
-  moveLerpTime: 0.1
-  rotateLerpTime: 0.1
-  scaleLerpTime: 0
-  maintainScaleOnInitialization: 1
-  smoothing: 1
-  lifetime: 0
-  referenceDirection: 1
-  minDistance: 1
-  maxDistance: 2
-  minViewDegrees: 0
-  maxViewDegrees: 30
-  aspectV: 1
-  ignoreAngleClamp: 0
-  ignoreDistanceClamp: 0
-  useFixedVerticalPosition: 0
-  fixedVerticalPosition: -0.4
-  orientToReferenceDirection: 0
 --- !u!114 &852033272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19634,13 +19595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccf86a5147a212b47b8e51a419401e68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trackedTargetType: 0
-  trackedHandedness: 3
-  trackedHandJoint: 2
-  transformOverride: {fileID: 0}
-  additionalOffset: {x: 0, y: 0, z: 0}
-  additionalRotation: {x: 0, y: 0, z: 0}
-  updateSolvers: 1
 --- !u!114 &852033273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19653,8 +19607,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3cbe1cb487ef8b41bb41739bd3f1d08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  autoConstraintSelection: 1
-  selectedConstraints: []
 --- !u!1 &855024702
 GameObject:
   m_ObjectHideFlags: 0
@@ -23155,7 +23107,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -24831,7 +24783,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -25074,7 +25026,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -36847,9 +36799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83d9acc7968244a8886f3af591305bcb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <IsProfileSwitching>k__BackingField: 0
   activeProfile: {fileID: 11400000, guid: 2412460a4440f7c43b1f0e9822e9d323, type: 2}
-  newProfile: {fileID: 0}
 --- !u!4 &1598700613
 Transform:
   m_ObjectHideFlags: 0
@@ -37389,9 +37339,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   alignmentType: 0
   containerObject: {fileID: 0}
-  contentPosition: {x: 0, y: 0, z: 0}
-  contentOrientation: {x: 0, y: 0, z: 0, w: 1}
-  contentInitialized: 0
 --- !u!4 &1630316875
 Transform:
   m_ObjectHideFlags: 0
@@ -38966,7 +38913,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -40443,7 +40390,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -42577,7 +42524,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
