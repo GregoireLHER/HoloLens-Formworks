@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -15869,30 +15869,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf98dd1206224111a38765365e98e207, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lateInitialize: 0
-  lockCursorWhenFocusLocked: 1
-  setCursorInvisibleWhenFocusLocked: 0
-  maxGazeCollisionDistance: 10
-  raycastLayerMasks:
-  - m_Bits: 4294967291
-  stabilizer:
-    storedStabilitySamples: 60
-    stablePosition: {x: 0, y: 0, z: 0}
-    stableRotation: {x: 0, y: 0, z: 0, w: 0}
-  gazeTransform: {fileID: 0}
-  minHeadVelocityThreshold: 0.5
-  maxHeadVelocityThreshold: 2
-  <GazeCursorPrefab>k__BackingField: {fileID: 1000012072213228, guid: 5b3e2856904e43c680f84f326861032a, type: 3}
-  <GazeTarget>k__BackingField: {fileID: 0}
-  <HitPosition>k__BackingField: {x: 0, y: 0, z: 0}
-  <HitNormal>k__BackingField: {x: 0, y: 0, z: 0}
-  <HeadVelocity>k__BackingField: {x: 0, y: 0, z: 0}
-  <HeadMovementDirection>k__BackingField: {x: 0, y: 0, z: 0}
-  lastHitDistance: 2
-  delayInitialization: 1
-  lastHeadPosition: {x: 0, y: 0, z: 0}
-  <IsEyeTrackingEnabled>k__BackingField: 0
-  <UseHeadGazeOverride>k__BackingField: 0
 --- !u!114 &620746457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15920,26 +15896,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a21b486d0bb44444b1418aaa38b44de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SendPointerHoverToParent: 1
-  m_EventSystem: {fileID: 0}
-  m_InputOverride: {fileID: 0}
-  m_DefaultInput: {fileID: 0}
-  m_PrevActionTime: 0
-  m_LastMoveVector: {x: 0, y: 0}
-  m_ConsecutiveMoveCount: 0
-  m_LastMousePosition: {x: 0, y: 0}
-  m_MousePosition: {x: 0, y: 0}
-  m_CurrentFocusedGameObject: {fileID: 0}
-  m_HorizontalAxis: Horizontal
-  m_VerticalAxis: Vertical
-  m_SubmitButton: Submit
-  m_CancelButton: Cancel
-  m_InputActionsPerSecond: 10
-  m_RepeatDelay: 0.5
-  m_ForceModuleActive: 0
-  <RaycastCamera>k__BackingField: {fileID: 0}
-  <ManualInitializationRequired>k__BackingField: 0
-  <ProcessPaused>k__BackingField: 0
 --- !u!1 &636737043
 GameObject:
   m_ObjectHideFlags: 0
@@ -33403,7 +33359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1326216514
 Transform:
   m_ObjectHideFlags: 0
@@ -48605,7 +48561,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1976424171
 Transform:
   m_ObjectHideFlags: 0
@@ -71076,7 +71032,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 996275873602531810}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 89.116974, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &9083475976207476751
 Transform:
   m_ObjectHideFlags: 0
